@@ -52,6 +52,7 @@ var config = {
         "永不受 人情冷暖 流言蜚語",
         "我要你 平安喜樂 得償所願",
         "我的女孩啊 生日快樂!",
+        "来自你心爱的男孩",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -85,16 +86,17 @@ var config = {
         "永不受 人情冷暖 流言蜚語": "./imgs/d.png",
         "我要你 平安喜樂 得償所願": "./imgs/d.png",
         "我的女孩啊 生日快樂!": "./imgs/d.png",
+        "来自你心爱的男孩": "./imgs/dzt.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "這是什麽直男玩意兒",
         play: "這麽安靜 真無聊",
-        bannar_coming: "一張圖片真沒創意",
-        balloons_flying: "果然是沒有情調的男人",
+        bannar_coming: "就一張圖片 真沒創意",
+        balloons_flying: "果然是个零情調的男人",
         cake_fadein: "好想~好想吃蛋糕呀",
-        light_candle: "我要偷偷許個願望",
+        light_candle: "我要偷偷許個願望~",
         wish_message: "happy birthday",
-        story: "A MESSAGE FOR YOU",
+        story: "U HAVE A MESSAGE",
     }
 };
